@@ -13,6 +13,8 @@ for i in range(1, origin + 2):
     direction_list[i] = -1      # -1 represent left and 1 represent right
 pai_list[0] = origin + 1
 A_list = [i for i in range(2, origin + 1)]
+print(pai_list)
+print(direction_list)
 # Represent Active digit : If a digit "i" comes to boundary it will be cleaned in A_list
 
 # MAIN
@@ -30,16 +32,16 @@ while not Flag_Done:
         pai_list[j + direction_list[m]] = m                  # Assign a value to the moved position eg: m = 3
 
         pai_ni_list[m] = pai_ni_list[m] + direction_list[m]  # pai_ni_list represent how many step can m move
-        pai_ni_list[pai_list[j]] = j                         #
+        pai_ni_list[pai_list[j]] = j
 
-        if m < pai_list[j + 2 * direction_list[m]]:
-            direction_list[m] = -direction_list[m]
-            A_list.remove(m)
+        # if
+        if m < pai_list[j + 2 * direction_list[m]]:          # pai_list[3 - 2 * 1]
+            direction_list[m] = -direction_list[m]           # Change the direction
+            A_list.remove(m)                                 # After we change direction, We need remove it in A_list
         if A_list:
             A_list = list(set(A_list + [i for i in range(m + 1, origin + 1)]))
         else:
-            A_list = list(set([i for i in range(m + 1, origin + 1)]))
+            A_list = list(set([i for i in range(m + 1, origin + 1)]))   #[4: 4]
     else:
         Flag_Done = True
 print("Total situation: " + str(sum))
-
