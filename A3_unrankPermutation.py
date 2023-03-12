@@ -22,4 +22,4 @@ for j in range(n, 0, -1):
             C += 1
     pai_list[k] = j
 un_rank = pai_list
-print(un_rank)
+print(un_rank[1:len(un_rank)])
