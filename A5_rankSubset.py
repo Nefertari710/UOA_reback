@@ -1,8 +1,8 @@
 from scipy.special import comb                          # import Permutation and combination
 
 R = 0
-k = eval(input("PLZ input a k"))                        # input k
 origin_list = input("PLZ input a list:").split(" ")     # input target list e.g.[3,4,7]
+k = len(origin_list)
 
 # Use this main function can compute the Rank(list[])
 for i in range(1, k):
