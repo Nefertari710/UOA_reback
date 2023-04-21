@@ -1,0 +1,6 @@
+ In March 2020, GitHub announced that they were acquiring npm, a JavaScript packaging vendor, for an undisclosed sum of money.[54] The deal was closed on April 15, 2020.[55]
+
+In early July 2020, the GitHub Archive Program was established, to archive its open-source code in perpetuity.[56]
+
+Mascot
+GitHub's mascot is an anthropomorphized "octocat" with five octopus-like arms.[57][58] The character was created by graphic designer Simon Oxley as clip art to sell on iStock,[59] a website that enables designers to market royalty-free digital images. GitHub became interested in Oxley's work after Twitter selected a bird that he designed for their own logo.[60] The illustration GitHub chose was a character t

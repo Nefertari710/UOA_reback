@@ -1,0 +1,7 @@
+o, Java, JavaScript, Objective-C, Python, PHP, Ruby, and Swift.
+GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
+GitHub Sponsors
+GitHub Sponsors allows users to make monthly money donations to projects hosted on GitHub.[98] The public beta was announced on May 23, 2019, and the project accepts waitlist registrations. The Verge said that GitHub Sponsors "works exactly like Patreon" because "developers can offer various funding tiers that come with different perks, and they'll receive recurring payments from supporters who want to access them and encourage their work" except with "zero fees to use the program." Furthermore, GitHub offers incentives for early adopters during the first year: it pledges to cover payment processing costs and match sponsorship payments up to $5,000 per developer. Furthermore, users still can use other similar services like Patreon and Open Collective and link to their own websites.[99][100]
+
+GitHub Archive Program
+In July 2020, GitHub stored a February archive of the site[56] in an abandoned mountain mine in Svalbard, Norway, part of the Arctic World Archive and not far from the Svalbard Global Seed Vault. The archive contained the code of 

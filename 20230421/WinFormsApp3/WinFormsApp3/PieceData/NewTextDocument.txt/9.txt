@@ -1,0 +1,11 @@
+' URLs use hexadecimal IDs, and edits to gists are recorded in a revision history, which can show the text difference of thirty revisions per page with an option between a "split" and "unified" view. Like repositories, Gists can be forked, "starred", i.e. publicly bookmarked, and commented on. The count of revisions, stars, and forks is indicated on the gist page.[91]
+
+Education program
+GitHub launched a new program called the GitHub Student Developer Pack to give students over the age of 13 free access to popular development tools and services. GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screenhero, SendGrid, Stripe, Travis CI, and Unreal Engine to launch the program.[92]
+
+In 2016, GitHub announced the launch of the GitHub Campus Experts program[93] to train and encourage students to grow technology communities at their universities. The Campus Experts program is open to university students 18 years and older across the world.[94] GitHub Campus Experts are one of the primary ways that GitHub funds student-oriented events and communities, Campus Experts are given access to training, funding, and additional resources to run events and grow their communities. To become a Campus Expert applicants must complete an online training course consisting of multiple modules designed to grow community leadership skills.
+
+GitHub Marketplace service
+GitHub also provides some software as a service ("SaaS") integrations for adding extra features to projects. Those services include:
+
+Waffle.io: Project manageme

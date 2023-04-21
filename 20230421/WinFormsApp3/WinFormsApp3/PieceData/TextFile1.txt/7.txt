@@ -1,0 +1,4 @@
+llow others to view and fork your repositories."[77]
+
+GitHub Enterprise
+GitHub Enterprise is a self-managed version of GitHub.com with similar functionality. It can be run on an organization's own hardware or on a cloud provider, and it has been available since November 2011.[78] In November 2020, source code for GitHub Enterprise Server was leaked online in an apparent 
