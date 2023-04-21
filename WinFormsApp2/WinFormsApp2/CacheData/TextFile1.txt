@@ -1,0 +1,87 @@
+﻿From 2012, Microsoft became a significant user of GitHub, using it to host open-source projects and development tools such as .NET Core, Chakra Core, MSBuild, PowerShell, PowerToys, Visual Studio Code, Windows Calculator, Windows Terminal and the bulk of its product documentation (now to be found on Microsoft Docs).[38][39]
+
+On June 4, 2018, Microsoft announced its intent to acquire GitHub for US$7.5 billion. The deal closed on October 26, 2018.[40] GitHub continued to operate independently as a community, platform and business.[41] Under Microsoft, the service was led by Xamarin's Nat Friedman, reporting to Scott Guthrie, executive vice president of Microsoft Cloud and AI. GitHub's CEO, Chris Wanstrath, was retained as a "technical fellow," also reporting to Guthrie. Nat Friedman resigned November 3, 2021; he was replaced by Thomas Dohmke.[42]
+
+There have been concerns from developers Kyle Simpson, JavaScript trainer and author, and Rafael Laguna, CEO at Open-Xchange over Microsoft's purchase, citing uneasiness over Microsoft's handling of previous acquisitions, such as Nokia's mobile business and Skype.[43][44]
+
+This acquisition was in line with Microsoft's business strategy under CEO Satya Nadella, which has seen a larger focus on cloud computing services, alongside the development of and contributions to open-source software.[6][39][45] Harvard Business Review argued that Microsoft was intending to acquire GitHub to get access to its user base, so it can be used as a loss leader to encourage the use of its other development products and services.[46]
+
+Concerns over the sale bolstered interest in competitors: Bitbucket (owned by Atlassian), GitLab and SourceForge (owned by BIZX, LLC) reported that they had seen spikes in new users intending to migrate projects from GitHub to their respective services.[47][48][49][50][51]
+
+In September 2019, GitHub acquired Semmle, a code analysis tool.[52] In February 2020, GitHub launched in India under the name GitHub India Private Limited.[53] In March 2020, GitHub announced that they were acquiring npm, a JavaScript packaging vendor, for an undisclosed sum of money.[54] The deal was closed on April 15, 2020.[55]
+
+In early July 2020, the GitHub Archive Program was established, to archive its open-source code in perpetuity.[56]
+
+Mascot
+GitHub's mascot is an anthropomorphized "octocat" with five octopus-like arms.[57][58] The character was created by graphic designer Simon Oxley as clip art to sell on iStock,[59] a website that enables designers to market royalty-free digital images. GitHub became interested in Oxley's work after Twitter selected a bird that he designed for their own logo.[60] The illustration GitHub chose was a character that Oxley had named Octopuss.[59] Since GitHub wanted Octopuss for their logo (a use that the iStock license disallows), they negotiated with Oxley to buy exclusive rights to the image.[59]
+
+GitHub renamed Octopuss to Octocat,[59] and trademarked the character along with the new name.[57] Later, GitHub hired illustrator Cameron McEfee to adapt Octocat for different purposes on the website and promotional materials; McEfee and various GitHub users have since created hundreds of variations of the character, which are available on The Octodex.[61][62]
+
+Services
+Projects on GitHub.com can be accessed and managed using the standard Git command-line interface; all standard Git commands work with it. GitHub.com also allows users to browse public repositories on the site. Multiple desktop clients and Git plugins are also available. The site provides social networking-like functions such as feeds, followers, wikis (using wiki software called Gollum) and a social network graph to display how developers work on their versions ("forks") of a repository and what fork (and branch within that fork) is newest.
+
+Anyone can browse and download public repositories but only registered users can contribute content to repositories. With a registered user account, users are able to have discussions, manage repositories, submit contributions to others' repositories, and review changes to code. GitHub.com began offering limited private repositories at no cost in January 2019 (limited to three contributors per project). Previously, only public repositories were free.[63][64][65] On April 14, 2020, GitHub made "all of the core GitHub features" free for everyone, including "private repositories with unlimited collaborators."[66]
+
+The fundamental software that underpins GitHub is Git itself, written by Linus Torvalds, creator of Linux. The additional software that provides the GitHub user interface was written using Ruby on Rails and Erlang by GitHub, Inc. developers Wanstrath,[67] Hyett, and Preston-Werner.
+
+Scope
+The main purpose of GitHub.com is to facilitate the version control and issue tracking aspects of software development. Labels, milestones, responsibility assignment, and a search engine are available for issue tracking. For version control, Git (and by extension GitHub.com) allows pull requests to propose changes to the source code. Users with the ability to review the proposed changes can see a diff of the requested changes and approve them. In Git terminology, this action is called "committing" and one instance of it is a "commit." A history of all commits is kept and can be viewed at a later time.
+
+In addition, GitHub supports the following formats and features:
+
+Documentation,[68] including automatically rendered README files in a variety of Markdown-like file formats (see README § On GitHub)
+Wikis[69]
+GitHub Actions,[70] which allows building continuous integration and continuous deployment pipelines for testing, releasing and deploying software without the use of third-party websites/platforms
+Graphs: pulse, contributors, commits, code frequency, punch card, network, members
+Integrations Directory[71]
+Email notifications[72]
+Discussions[73]
+Option to subscribe someone to notifications by @ mentioning them.[74]
+Emojis[75]
+Nested task-lists within files
+Visualization of geospatial data
+3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas."[76] The viewer is powered by WebGL and Three.js.
+Photoshop's native PSD format can be previewed and compared to previous versions of the same file.
+PDF document viewer
+Security Alerts of known Common Vulnerabilities and Exposures in different packages
+GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the Open Source Definition. The terms of service state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."[77]
+
+GitHub Enterprise
+GitHub Enterprise is a self-managed version of GitHub.com with similar functionality. It can be run on an organization's own hardware or on a cloud provider, and it has been available since November 2011.[78] In November 2020, source code for GitHub Enterprise Server was leaked online in an apparent protest against DMCA takedown of youtube-dl. According to GitHub, the source code came from GitHub accidentally sharing the code with Enterprise customers themselves, not from an attack on GitHub servers.[79][80]
+
+GitHub Pages
+Since 2008, GitHub has offered GitHub Pages, a static web hosting service for blogs, project documentation,[81][82] and books.[83]
+
+All GitHub Pages content is stored in a Git repository, either as files served to visitors verbatim or in Markdown format. GitHub is integrated with Jekyll static website and blog generator and GitHub continuous integration pipelines. Each time the content source is updated, Jekyll regenerates the website and automatically serves it via GitHub Pages infrastructure.[84]
+
+As with the rest of GitHub, it includes both free and paid tiers of service. Websites generated through this service are hosted either as subdomains of the github.io domain, or can be connected to custom domains bought through a third-party domain name registrar.[85] GitHub Pages supports HTTPS encryption.[86][87]
+
+Gist
+GitHub also operates a pastebin-style site called Gist,[14] which is for code snippets, as opposed to GitHub proper, which is for larger projects.[citation needed] Tom Preston-Werner débuted the feature at a Ruby conference in 2008.[88]
+
+Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and TLS encryption for private pastes. Because each "gist" is its own Git repository, multiple code snippets can be contained in a single page and they can be pushed and pulled using Git.[89]
+
+Unregistered users were able to upload Gists until March 19, 2018, when uploading gists was restricted to logged-in users, reportedly to mitigate spamming on the page of recent gists.[90]
+
+Gists' URLs use hexadecimal IDs, and edits to gists are recorded in a revision history, which can show the text difference of thirty revisions per page with an option between a "split" and "unified" view. Like repositories, Gists can be forked, "starred", i.e. publicly bookmarked, and commented on. The count of revisions, stars, and forks is indicated on the gist page.[91]
+
+Education program
+GitHub launched a new program called the GitHub Student Developer Pack to give students over the age of 13 free access to popular development tools and services. GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screenhero, SendGrid, Stripe, Travis CI, and Unreal Engine to launch the program.[92]
+
+In 2016, GitHub announced the launch of the GitHub Campus Experts program[93] to train and encourage students to grow technology communities at their universities. The Campus Experts program is open to university students 18 years and older across the world.[94] GitHub Campus Experts are one of the primary ways that GitHub funds student-oriented events and communities, Campus Experts are given access to training, funding, and additional resources to run events and grow their communities. To become a Campus Expert applicants must complete an online training course consisting of multiple modules designed to grow community leadership skills.
+
+GitHub Marketplace service
+GitHub also provides some software as a service ("SaaS") integrations for adding extra features to projects. Those services include:
+
+Waffle.io: Project management for software teams. Automatically see pull requests, automated builds, reviews, and deployments across all of your repositories in GitHub.[95]
+Rollbar: Integrate with GitHub to provide real-time debugging tools and full-stack exception reporting. It is compatible with all popular code languages, such as JavaScript, Python, .NET, Ruby, PHP, Node.js, Android, iOS, Go, Java, and C#.[96][97]
+Codebeat: For automated code analysis specialized in web and mobile developers. The supported languages for this software are Elixir, Go, Java, Swift, JavaScript, Python, Ruby, Kotlin, Objective-C, and TypeScript.
+Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the code. Supported languages: Go, Java, JavaScript, Objective-C, Python, PHP, Ruby, and Swift.
+GitLocalize: Developed for teams that are translating their content from one point to another. GitLocalize automatically syncs with your repository so you can keep your workflow on GitHub. It also keeps you updated on what needs to be translated.
+GitHub Sponsors
+GitHub Sponsors allows users to make monthly money donations to projects hosted on GitHub.[98] The public beta was announced on May 23, 2019, and the project accepts waitlist registrations. The Verge said that GitHub Sponsors "works exactly like Patreon" because "developers can offer various funding tiers that come with different perks, and they'll receive recurring payments from supporters who want to access them and encourage their work" except with "zero fees to use the program." Furthermore, GitHub offers incentives for early adopters during the first year: it pledges to cover payment processing costs and match sponsorship payments up to $5,000 per developer. Furthermore, users still can use other similar services like Patreon and Open Collective and link to their own websites.[99][100]
+
+GitHub Archive Program
+In July 2020, GitHub stored a February archive of the site[56] in an abandoned mountain mine in Svalbard, Norway, part of the Arctic World Archive and not far from the Svalbard Global Seed Vault. The archive contained the code of all active public repositories, as well as that of dormant, but significant public repositories. The 21TB of data was stored on piqlFilm archival film reels as matrix (2D) barcode (Boxing barcode), and is expected to last 500–1,000 years.[101][102][103][104]
+
+The GitHub Archive Program is also working with partners on Project Silica, in an attempt to store all public repositories for 10,000 years. It aims to write archives into the molecular structure of quartz glass platters, using a high-precision laser that pulses a quadrillion (1,000,000,000,000,000) times per second.[104]
