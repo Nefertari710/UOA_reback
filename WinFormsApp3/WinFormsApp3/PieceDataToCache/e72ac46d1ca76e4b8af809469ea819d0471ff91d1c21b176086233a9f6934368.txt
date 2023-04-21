@@ -1,0 +1,2 @@
+o, Java, Swift, JavaScript, Python, Ruby, Kotlin, Objective-C, and TypeScript.
+Travis CI: To provide confidence for your apps while doing test and ship. Also gives full control over the build environment, to adapt it to the c

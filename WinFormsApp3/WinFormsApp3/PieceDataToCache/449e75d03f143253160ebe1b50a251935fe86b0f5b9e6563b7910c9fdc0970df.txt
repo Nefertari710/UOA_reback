@@ -1,0 +1,12 @@
+
+
+As with the rest of GitHub, it includes both free and paid tiers of service. Websites generated through this service are hosted either as subdomains of the github.io domain, or can be connected to custom domains bought through a third-party domain name registrar.[85] GitHub Pages supports HTTPS encryption.[86][87]
+
+Gist
+GitHub also operates a pastebin-style site called Gist,[14] which is for code snippets, as opposed to GitHub proper, which is for larger projects.[citation needed] Tom Preston-Werner débuted the feature at a Ruby conference in 2008.[88]
+
+Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and TLS encryption for private pastes. Because each "gist" is its own Git repository, multiple code snippets can be contained in a single page and they can be pushed and pulled using Git.[89]
+
+Unregistered users were able to upload Gists until March 19, 2018, when uploading gists was restricted to logged-in users, reportedly to mitigate spamming on the page of recent gists.[90]
+
+Gists
