@@ -1,0 +1,6 @@
+protest against DMCA takedown of youtube-dl. According to GitHub, the source code came from GitHub accidentally sharing the code with Enterprise customers themselves, not from an attack on GitHub servers.[79][80]
+
+GitHub Pages
+Since 2008, GitHub has offered GitHub Pages, a static web hosting service for blogs, project documentation,[81][82] and books.[83]
+
+All GitHub Pages content is stored in a Git repository, either as files served to visitors verbatim or i

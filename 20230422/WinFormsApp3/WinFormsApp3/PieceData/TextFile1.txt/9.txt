@@ -1,0 +1,1 @@
+n Markdown format. GitHub is integrated with Jekyll static website and blog generator and GitHub continuous integration pipelines. Each time the content source is updated, Jekyll regenerates the website and automatically serves it via GitHub Pages infrastructure.[84]
